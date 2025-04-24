@@ -25,3 +25,7 @@ Merged the experimental branch with the bug-fix branch
 Might of made hte commits out of order but added a commit node to main
 # Step 13:
 Commit on the bug-fix branch for a node
+# Step 14:
+Merge bug-fix into main branch
+# Step 15:
+Commit these changes for the final main node
