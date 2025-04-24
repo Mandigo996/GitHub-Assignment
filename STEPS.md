@@ -29,3 +29,9 @@ Commit on the bug-fix branch for a node
 Merge bug-fix into main branch
 # Step 15:
 Commit these changes for the final main node
+
+# Git commands:
+git checkout
+git fetch
+git merge
+git pull
