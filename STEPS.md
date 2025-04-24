@@ -13,3 +13,15 @@ I dont remeber because i started this file a little late but i think here i merg
 branch in order to create merge conflics and get it up to speed to the nodes in the assignments
 # Step 7:
 Created this steps file to create another commit node for the bug fix banch.
+# Step 8:
+Made a change in the experimental branch for the commit node
+# Step 9:
+Made a change in the experimental branch for the commit node
+# Step 10:
+Made a change in the experimental branch for the commit node
+# Step 11:
+Merged the experimental branch with the bug-fix branch
+# Step 12:
+Might of made hte commits out of order but added a commit node to main
+# Step 13:
+Commit on the bug-fix branch for a node
